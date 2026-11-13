@@ -4,5 +4,6 @@
 //  ⚠️ ممنوع وضع مفتاح service_role هنا أبداً.
 //  ما دامت القيم وهمية كما هي الآن، تعمل المنصة في «الوضع التجريبي» داخل المتصفح.
 // =====================================================================
-export const SUPABASE_URL = 'https://YOUR-PROJECT.supabase.co';
-export const SUPABASE_KEY = 'YOUR-PUBLISHABLE-KEY';
+export const SUPABASE_URL = 'https://vkzlzoobcbvlotanqurp.supabase.co';
+export const SUPABASE_KEY = 'sb_publishable_BC62NQmw2VqjdbgexgLfXg_i_OJk813';
+
